@@ -10,9 +10,4 @@ const product = {
     age: "nai",
   },
 };
-let { name, onne } = product;
-let { name: myname ,
-    onne:other
-    ,{age:num
-        ,roll:n}} = product;
-console.log(myname, other ,num ,n);
+;
